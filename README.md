@@ -4,10 +4,10 @@
                            │                                                                       │
                            │                   dio@github                                          │
                            │                   -------------                                       │
-                           │    ／l、　　　　 　 name: dio (@diorisso)                             │
-                           │  （ﾟ､ ｡ ７　　　 　 role: fullstack dev                               │
-                           │    l  ~ヽ　　　 　 focus: backend & devops                            │
-                           │    じしf_,)ノ　　  stack: c#, ts, mssql                               │
+                           │    ／l、　　　　 　 name: dio (@diorisso)                               │
+                           │  （ﾟ､ ｡ ７　　　 　 role: fullstack dev                                 │
+                           │    l  ~ヽ　　　 　 focus: backend & devops                             │
+                           │    じしf_,)ノ　　  stack: c#, ts, mssql                                │
                            │                    langs: pt, en                                     │
                            │                    location: santa catarina, brazil                  │
                            │                                                                      │
